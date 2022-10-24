@@ -61,7 +61,8 @@ body {
 }
 .header-button,
 .hero-content-button1,
-.trends-section-cards1-sub-section-button {
+.trends-section-cards1-sub-section-button,
+.top-list-section-cards-button {
   border: none;
   width: 171px;
   height: 51px;
@@ -440,4 +441,18 @@ body {
 }
 .top-list-section-cards-text2-special {
   color: rgba(232, 12, 125, 1);
+}
+.top-list-section-cards-button {
+  height: 47px;
+  width: 142px;
+  border-radius: 30px;
+  margin-bottom: 30px;
+  margin-left: 82px;
+  margin-right: 82px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
 }
