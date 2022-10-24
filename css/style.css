@@ -59,7 +59,8 @@ body {
   margin-right: 17px;
   margin-top: 16px;
 }
-.header-button {
+.header-button,
+.hero-content-button1 {
   border: none;
   width: 171px;
   height: 51px;
@@ -106,4 +107,19 @@ body {
   color: rgba(255, 255, 255, 1);
   opacity: 60%;
   margin-bottom: 55px;
+}
+.hero-content-button--wrapper {
+  display: flex;
+}
+.hero-content-button2 {
+  margin-left: 25px;
+  border: 1px solid rgba(255, 105, 78, 1);
+  background-color: rgba(43, 47, 84, 1);
+  width: 171px;
+  height: 51px;
+  font-size: 18px;
+  font-family: roboto;
+  font-weight: 500;
+  border-radius: 30px;
+  color: white;
 }
