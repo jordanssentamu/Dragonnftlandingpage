@@ -344,3 +344,20 @@ body {
   transform: rotate(-6.5deg);
   margin-right: 5px;
 }
+
+/* top-list-section */
+.top-list-section {
+  width: 100%;
+  height: auto;
+}
+.top-list-section-heading {
+  height: 57px;
+  width: 251px;
+  font-family: Rajdhani;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
