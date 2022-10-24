@@ -423,3 +423,21 @@ body {
   margin-left: 91px;
   margin-right: 90px;
 }
+.top-list-section-cards-text2 {
+  height: 24px;
+  width: 100px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 20px;
+  margin-left: 103px;
+  margin-right: 102px;
+  margin-top: 15px;
+}
+.top-list-section-cards-text2-special {
+  color: rgba(232, 12, 125, 1);
+}
