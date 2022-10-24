@@ -382,31 +382,46 @@ body {
 .top-list-section-cards {
   width: 100%;
   display: flex;
+  gap: 20px;
 }
 .top-list-section-cards1 {
   height: 336px;
-  width: 305px;
+  width: 267px;
   border-radius: 25px;
   background-color: rgba(33, 36, 62, 1);
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
-.top-list-section-cards1-design {
+.top-list-section-cards1-design,
+.top-list-section-cards2-design,
+.top-list-section-cards3-design,
+.top-list-section-cards4-design {
   height: 104px;
-  width: 263px;
+  width: 229px;
   left: 89px;
   top: 3464px;
   border-radius: 25px;
-  background-image: url(/img/Rectangle\ 534.png);
   margin-top: 20px;
   margin-left: 21px;
   margin-right: 21px;
+}
+.top-list-section-cards1-design {
+  background-image: url(/img/Rectangle\ 534.png);
+}
+.top-list-section-cards2-design {
+  background-image: url(/img/Rectangle\ 535.png);
+}
+.top-list-section-cards3-design {
+  background-image: url(/img/Rectangle\ 536.png);
+}
+.top-list-section-cards4-design {
+  background-image: url(/img/Rectangle\ 537.png);
 }
 .top-list-section-cards-img {
   height: 68px;
   width: 68px;
   border: 1px solid rgba(43, 47, 84, 1);
   border-radius: 50px;
-  margin-left: 119px;
+  margin-left: 103px;
   margin-right: 118px;
   margin-top: -46px;
   margin-bottom: 15px;
@@ -415,7 +430,7 @@ body {
   height: 24px;
   width: 24px;
   position: absolute;
-  left: 243px;
+  left: 227px;
   top: 3357px;
 }
 .top-list-section-cards-text1 {
@@ -428,7 +443,7 @@ body {
   letter-spacing: 0em;
   text-align: center;
   color: rgba(255, 255, 255, 1);
-  margin-left: 91px;
+  margin-left: 79px;
   margin-right: 90px;
 }
 .top-list-section-cards-text2 {
@@ -442,7 +457,7 @@ body {
   text-align: center;
   color: rgba(255, 255, 255, 1);
   margin-bottom: 20px;
-  margin-left: 103px;
+  margin-left: 89px;
   margin-right: 102px;
   margin-top: 15px;
 }
@@ -454,7 +469,7 @@ body {
   width: 142px;
   border-radius: 30px;
   margin-bottom: 30px;
-  margin-left: 82px;
+  margin-left: 66px;
   margin-right: 82px;
   font-family: Roboto;
   font-size: 18px;
