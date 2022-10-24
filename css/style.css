@@ -411,6 +411,13 @@ body {
   margin-top: -46px;
   margin-bottom: 15px;
 }
+.top-list-section-cards-subimg {
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  left: 243px;
+  top: 3357px;
+}
 .top-list-section-cards-text1 {
   height: 27px;
   width: 124px;
