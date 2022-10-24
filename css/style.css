@@ -360,6 +360,9 @@ body {
   letter-spacing: 0em;
   text-align: center;
   color: rgba(255, 255, 255, 1);
+  margin-left: 434px;
+  margin-bottom: 25px;
+  margin-top: 21px;
 }
 .top-list-section-text {
   height: 59px;
@@ -372,4 +375,5 @@ body {
   text-align: center;
   color: rgba(255, 255, 255, 1);
   opacity: 60%;
+  margin-left: 200px;
 }
