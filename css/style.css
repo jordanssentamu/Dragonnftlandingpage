@@ -235,3 +235,22 @@ body {
   color: rgba(255, 255, 255, 1);
   opacity: 60%;
 }
+/* main-section-2 */
+.trends-section {
+  width: 100%;
+  height: auto;
+}
+.trends-section-week {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.trends-section-week-heading {
+  height: 57px;
+  width: 291px;
+  font-family: Rajdhani;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 57.2px;
+  color: rgba(255, 255, 255, 1);
+}
