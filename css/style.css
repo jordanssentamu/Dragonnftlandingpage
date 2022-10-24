@@ -410,3 +410,16 @@ body {
   margin-top: -46px;
   margin-bottom: 15px;
 }
+.top-list-section-cards-text1 {
+  height: 27px;
+  width: 124px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 91px;
+  margin-right: 90px;
+}
