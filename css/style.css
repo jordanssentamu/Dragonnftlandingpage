@@ -78,6 +78,7 @@ body {
   height: 652.9px;
   display: flex;
   margin-top: 160px;
+  margin-bottom: -4.9px;
 }
 .hero-content-heading {
   width: 573px;
@@ -129,3 +130,10 @@ body {
   margin-top: -143px;
   object-fit: fill;
 }
+/* sponser-section */
+.sponser-logo-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+/* main-section */
