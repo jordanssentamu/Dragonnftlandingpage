@@ -389,3 +389,14 @@ body {
   background-color: rgba(33, 36, 62, 1);
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
+.top-list-section-cards1-design {
+  height: 104px;
+  width: 263px;
+  left: 89px;
+  top: 3464px;
+  border-radius: 25px;
+  background-image: url(/img/Rectangle\ 534.png);
+  margin-top: 20px;
+  margin-left: 21px;
+  margin-right: 21px;
+}
