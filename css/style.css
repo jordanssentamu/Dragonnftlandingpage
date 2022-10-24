@@ -143,13 +143,14 @@ body {
   height: auto;
   padding-top: 140px;
 }
-.about-us--section {
-  width: 100%;
-  height: 884.66px;
-}
+
 .about-us--section {
   height: 884.6574096679688px;
   width: 595.156005859375px;
+  display: flex;
+}
+.about-us-img--groups {
+  margin-right: 436px;
 }
 .about-us-img1-wrapper {
   height: 421.65px;
@@ -201,5 +202,14 @@ body {
 .about-us-details {
   height: 360px;
   width: 622px;
-  margin-top: 430.99px;
+  margin-top: 224.99px;
+}
+.about-us-details-heading {
+  height: 57px;
+  width: 163px;
+  font-family: Rajdhani;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 57.2px;
+  color: rgba(255, 255, 255, 1);
 }
