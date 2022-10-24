@@ -400,3 +400,13 @@ body {
   margin-left: 21px;
   margin-right: 21px;
 }
+.top-list-section-cards-img {
+  height: 68px;
+  width: 68px;
+  border: 1px solid rgba(43, 47, 84, 1);
+  border-radius: 50px;
+  margin-left: 119px;
+  margin-right: 118px;
+  margin-top: -46px;
+  margin-bottom: 15px;
+}
