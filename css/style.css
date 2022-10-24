@@ -112,7 +112,8 @@ body {
 .hero-content-button--wrapper {
   display: flex;
 }
-.hero-content-button2 {
+.hero-content-button2,
+.trends-section-week-button {
   margin-left: 25px;
   border: 1px solid rgba(255, 105, 78, 1);
   background-color: rgba(43, 47, 84, 1);
@@ -253,4 +254,9 @@ body {
   font-size: 44px;
   line-height: 57.2px;
   color: rgba(255, 255, 255, 1);
+}
+.trends-section-week-button {
+  height: 51px;
+  width: 125px;
+  border-radius: 30px;
 }
