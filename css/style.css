@@ -245,6 +245,7 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 60px;
 }
 .trends-section-week-heading {
   height: 57px;
@@ -259,4 +260,22 @@ body {
   height: 51px;
   width: 125px;
   border-radius: 30px;
+}
+.trends-section-cards {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.trends-section-cards1 {
+  height: 404px;
+  width: 304px;
+  background-color: rgba(37, 41, 83, 1);
+  border: 1px solid rgba(49, 120, 255, 1);
+  border-radius: 25px;
+}
+.trends-section-cards1-img {
+  height: 211px;
+  width: 244px;
+  border-radius: 25px;
+  margin: 30px 30px 20px 30px;
 }
