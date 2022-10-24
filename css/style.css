@@ -76,4 +76,22 @@ body {
   width: 100%;
   height: 652.9px;
   display: flex;
+  margin-top: 160px;
+}
+.hero-content-heading {
+  width: 573px;
+  height: 219px;
+  font-family: Rajdhani;
+  font-weight: 700;
+  line-height: 73.2px;
+  font-size: 61px;
+  color: rgba(255, 255, 255, 1);
+}
+.hero-content-heading-special {
+  border-bottom: 2px solid #ff3a15;
+  border-bottom-right-radius: 23px;
+  border-bottom-left-radius: 23px;
+  background: linear-gradient(#ff694e 0%, #ff3a15 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
