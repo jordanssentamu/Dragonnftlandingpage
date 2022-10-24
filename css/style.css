@@ -123,3 +123,9 @@ body {
   border-radius: 30px;
   color: white;
 }
+.hero-img {
+  width: 592px;
+  height: 653.9px;
+  margin-top: -143px;
+  object-fit: fill;
+}
