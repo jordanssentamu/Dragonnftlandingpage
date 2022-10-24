@@ -213,3 +213,12 @@ body {
   line-height: 57.2px;
   color: rgba(255, 255, 255, 1);
 }
+.about-us-details-text-1 {
+  height: 129px;
+  width: 622px;
+  font-size: 22px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 35.2px;
+  color: rgba(255, 255, 255, 1);
+}
