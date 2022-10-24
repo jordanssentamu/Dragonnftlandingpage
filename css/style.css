@@ -185,7 +185,10 @@ body {
 .about-us-img2-wrapperI {
   margin-left: 330px;
   margin-top: -356px;
-  margin-bottom: 354px;
+  margin-bottom: 13px;
+}
+.about-us-img2-wrapperII {
+  margin-left: 330px;
 }
 .img2 {
   height: 306.7313537597657px;
@@ -194,7 +197,9 @@ body {
   border-radius: 25px;
   object-fit: contain;
 }
+
 .about-us-details {
   height: 360px;
   width: 622px;
+  margin-top: 430.99px;
 }
