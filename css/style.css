@@ -86,6 +86,7 @@ body {
   line-height: 73.2px;
   font-size: 61px;
   color: rgba(255, 255, 255, 1);
+  margin-bottom: 25px;
 }
 .hero-content-heading-special {
   border-bottom: 2px solid #ff3a15;
@@ -104,4 +105,5 @@ body {
   line-height: 35.2px;
   color: rgba(255, 255, 255, 1);
   opacity: 60%;
+  margin-bottom: 55px;
 }
