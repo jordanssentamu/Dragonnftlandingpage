@@ -25,3 +25,7 @@ body {
   object-fit: contain;
   margin-right: 386px;
 }
+.nav-bar {
+  height: 21px;
+  width: auto;
+}
