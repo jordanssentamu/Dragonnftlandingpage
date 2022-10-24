@@ -60,7 +60,8 @@ body {
   margin-top: 16px;
 }
 .header-button,
-.hero-content-button1 {
+.hero-content-button1,
+.trends-section-cards1-sub-section-button {
   border: none;
   width: 171px;
   height: 51px;
@@ -265,6 +266,7 @@ body {
   display: flex;
   width: 100%;
   height: auto;
+  gap: 20px;
 }
 .trends-section-cards1 {
   height: 404px;
@@ -291,8 +293,10 @@ body {
   color: rgba(255, 255, 255, 1);
   margin-left: 30px;
 }
+.trends-section-cards1-sub-section {
+  display: flex;
+}
 .trends-section-cards1-sub-section--content {
-  /* display: flex; */
   margin-left: 30px;
 }
 .trends-section-cards1-sub-section--content-heading {
@@ -324,4 +328,12 @@ body {
   background: linear-gradient(270deg, #ff694e -10.78%, #ff3a15 116.67%);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+}
+.trends-section-cards1-sub-section-button {
+  font-size: 16px;
+  width: 73px;
+  height: 44px;
+  font-weight: 400;
+  border-radius: 50px;
+  margin-left: 115px;
 }
