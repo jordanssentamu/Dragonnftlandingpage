@@ -348,7 +348,7 @@ body {
 /* top-list-section */
 .top-list-section {
   width: 100%;
-  height: auto;
+  height: 650px;
 }
 .top-list-section-heading {
   height: 57px;
@@ -360,4 +360,16 @@ body {
   letter-spacing: 0em;
   text-align: center;
   color: rgba(255, 255, 255, 1);
+}
+.top-list-section-text {
+  height: 59px;
+  width: 688px;
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  opacity: 60%;
 }
