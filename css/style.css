@@ -23,12 +23,13 @@ body {
   width: 91px;
   height: 32px;
   object-fit: contain;
-  margin-right: 386px;
+  margin-right: 334px;
 }
 .nav-bar {
   height: 21px;
   width: auto;
-  margin-right: 256px;
+  margin-right: 124px;
+  margin-top: 12px;
 }
 .nav-list {
   display: flex;
@@ -49,5 +50,23 @@ body {
 }
 .home-link {
   color: rgba(255, 255, 255, 1);
+  font-weight: 500;
+}
+.header-search-button-container {
+  display: flex;
+}
+.search-icon {
+  margin-right: 17px;
+  margin-top: 16px;
+}
+.header-button {
+  border: none;
+  width: 171px;
+  height: 51px;
+  border-radius: 30px;
+  background: linear-gradient(#ff694e 0%, #ff3a15 100%);
+  color: white;
+  font-size: 18px;
+  font-family: roboto;
   font-weight: 500;
 }
