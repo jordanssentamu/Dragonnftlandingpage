@@ -492,6 +492,7 @@ body {
   width: 100%;
   background: #252953;
   display: flex;
+  gap: 20px;
 }
 .sell-your-Artwork1-heading {
   height: 57px;
