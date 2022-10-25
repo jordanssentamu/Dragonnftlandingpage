@@ -177,7 +177,8 @@ body {
   width: 301.6px;
 }
 .about-us-img2-wrapperI,
-.about-us-img2-wrapperII {
+.about-us-img2-wrapperII,
+.sell-your-Artwork-imggroup1 {
   height: 319.5904846191407px;
   width: 214.5974690846753px;
   padding: 38.16px 21.19px;
@@ -196,7 +197,8 @@ body {
 .about-us-img2-wrapperII {
   margin-left: 264px;
 }
-.img2 {
+.img2,
+.sell-your-Artwork-img1 {
   height: 306.7313537597657px;
   width: 252.65800135966893px;
   transform: matrix(-1, -0.58, 0, 0.89, 0, 0);
@@ -544,4 +546,9 @@ input {
   font-weight: 400;
   line-height: 27px;
   letter-spacing: 0em;
+}
+.sell-your-Artwork-imggroups {
+  height: 531px;
+  width: 661px;
+  margin-top: 100px;
 }
