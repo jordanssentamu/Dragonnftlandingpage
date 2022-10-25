@@ -490,4 +490,17 @@ body {
   height: 731px;
   width: 100%;
   background: #252953;
+  display: flex;
+}
+.sell-your-Artwork1-heading {
+  height: 57px;
+  width: 536px;
+  font-family: Rajdhani;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 229px;
+  margin-bottom: 25px;
 }
