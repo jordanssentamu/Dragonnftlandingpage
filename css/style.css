@@ -557,9 +557,9 @@ input {
   transform: matrix(1, 0.58, 0, 0.89, 0, 98);
 }
 .sell-your-Artwork-img1 {
-  height: 348.6154919495876px;
-  width: 201.76895699785183px;
-  transform: matrix(1, 0.58, 0, 0.89, 0, 0);
+  height: 354.6154919495876px;
+  width: 178.76895699785183px;
+  transform: matrix(1, -0.198, 0, 0.89, 10, -13);
   object-fit: contain;
 }
 .sell-your-Artwork-imggroup2 {
@@ -609,6 +609,7 @@ input {
   color: rgba(255, 255, 255, 1);
   opacity: 60%;
 }
+
 .footer-list-heading {
   height: 31px;
   width: 108px;
