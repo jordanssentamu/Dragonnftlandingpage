@@ -177,8 +177,7 @@ body {
   width: 301.6px;
 }
 .about-us-img2-wrapperI,
-.about-us-img2-wrapperII,
-.sell-your-Artwork-imggroup1 {
+.about-us-img2-wrapperII {
   height: 319.5904846191407px;
   width: 214.5974690846753px;
   padding: 38.16px 21.19px;
@@ -197,8 +196,7 @@ body {
 .about-us-img2-wrapperII {
   margin-left: 264px;
 }
-.img2,
-.sell-your-Artwork-img1 {
+.img2 {
   height: 306.7313537597657px;
   width: 252.65800135966893px;
   transform: matrix(-1, -0.58, 0, 0.89, 0, 0);
@@ -551,4 +549,106 @@ input {
   height: 531px;
   width: 661px;
   margin-top: 100px;
+}
+.sell-your-Artwork-imggroup1 {
+  height: 320.9386391676272px;
+  width: 201.1227728114828px;
+  border: 1px solid #ff3a15;
+  transform: matrix(1, 0.58, 0, 0.89, 0, 98);
+}
+.sell-your-Artwork-img1 {
+  height: 348.6154919495876px;
+  width: 201.76895699785183px;
+  transform: matrix(1, 0.58, 0, 0.89, 0, 0);
+  object-fit: contain;
+}
+.sell-your-Artwork-imggroup2 {
+  height: 320.9386391676272px;
+  width: 234.1227728114828px;
+  border: 1px solid #ff3a15;
+  transform: matrix(-1, 0.58, 0, 0.89, 217, -232);
+}
+
+.sell-your-Artwork-img2 {
+  height: 348.6154919495876px;
+  width: 228.76895699785183px;
+  transform: matrix(-1, 0.58, 0, 0.89, 0, 0);
+  object-fit: contain;
+}
+/* footer */
+.footer.section {
+  width: 100%;
+  height: 700px;
+}
+.footer-details {
+  width: 100%;
+  height: 200px;
+  margin-top: 111px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.footer-logo-details-img1 {
+  height: 32px;
+  width: 91px;
+  margin-bottom: 15px;
+}
+.footer-logo-details-img2 {
+  height: 47.45454406738281px;
+  width: 189.8178253173828px;
+  margin-top: 30px;
+}
+.footer-logo-details-text {
+  height: 48px;
+  width: 244px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+  opacity: 60%;
+}
+.footer-list-heading {
+  height: 31px;
+  width: 108px;
+  font-family: Rajdhani;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 20px;
+}
+.footer-list {
+  list-style: none;
+}
+.footer-list li {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+  opacity: 60%;
+  margin-bottom: 10px;
+}
+.footer-conclusion {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-conclusion-text {
+  height: 21px;
+  width: 426px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  opacity: 60%;
+  margin-top: 15px;
 }
